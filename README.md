@@ -1,6 +1,6 @@
-# voxceleb_mini
+# VoxMini dataset
 
-VoxCeleb Mini is a sublist of VoxCeleb2 dataset with similar speaker distribution.
+VoxMini is a sublist of VoxCeleb2 dataset with similar speaker distribution.
 
 We randomly select 12.5\% video clips for each person in VoxCeleb2. 
 
